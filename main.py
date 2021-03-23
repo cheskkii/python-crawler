@@ -4,8 +4,8 @@
 import requests
 
 
-# resp = requests.get("http://cordova.org/")
-resp = requests.get("http://www.pagasa.dost.gov.ph")
+resp = requests.get("http://cordova.org/")
+#resp = requests.get("http://www.pagasa.dost.gov.ph")
 #print(resp)
 
 ##200 = okay#
